@@ -2,4 +2,4 @@
 - 👀 I’m interested in Backend/Frontend Development.
 - 🌱 I’m currently learning how to solve problems with bash, c, python, javascript, css, php, MySQL, HTML @ALX & Coursera
 - 💞️ I’m looking to collaborate on  projects that solve problems holding back the human mind & abilities.
-- 📫 You can reach me on linkedIn (https://www.linkedin.com/in/olaniyi-ishola-83375710a) Twitter (@n_Dolz) or WhatsApp (+2348030564285).
+- 📫 You can reach me on linkedIn (https://www.linkedin.com/in/olaniyi-ishola-83375710a) Twitter (@n_Dolz) or Mobile (09062230252)
